@@ -39,5 +39,18 @@ The system flow is designed as follows:
 
 ![Block Diagram](Block_Diagram.png)
 
+## 🎓 Credits & Acknowledgements
+
+This project was designed and developed as part of the **"PCB Tasarım - Bir Elektronik Kartın Yaşam Döngüsü"** course created by **Mustafa Berk Aydoğan**.
+
+Special thanks to the instructor for the comprehensive guidance on Altium Designer workflows, component selection, and production processes.
+
+## ⚠️ Disclaimer
+
+This PCB design is an **educational project** created strictly for learning purposes.
+* It has **not** been tested for electromagnetic compatibility (EMC), thermal stability, or long-term reliability in a real-world environment.
+* It is **not intended for commercial use or mass production**.
+* Users should exercise caution and verify the design before any attempt at manufacturing.
+
 ## 📄 License
 This project is open-source and available under the MIT License.
